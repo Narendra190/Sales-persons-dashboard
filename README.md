@@ -54,5 +54,5 @@ The dashboard provides real-time insights with interactive slicers, KPI tracking
 
 **6. SCREENSHOOT / DEMO:**
 
-Show what the dashboard looks like.-![Alt text](http://github.com/Narendra190/Sales-persons-dashboard/blob/main/sales%20scrshoot.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](http://github.com/Narendra190/Sales-persons-dashboard/blob/main/sales%20scrshoot.png)
