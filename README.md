@@ -53,4 +53,4 @@ Sales data was sourced from Excel files containing transactional sales records a
 The dashboard provides real-time insights with interactive slicers, KPI tracking, and trend analysis to quickly identify business patterns.
 
 **6. SCREENSHOOT / DEMO:**
-Show what the dashboard looks like: ![A] text(sales scrshoot.png)
+Show what the dashboard looks like: ![A]t text(http://github.com/Narendra190/Sales-persons-dashboard/blob/main/sales%20scrshoot.png)
